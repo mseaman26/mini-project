@@ -1,0 +1,29 @@
+*{
+   background-color: aqua; 
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+main{
+
+}
+h1{
+    position: fixed;
+    top: 0px;
+}
+#section1{
+    
+    background-color: blue;
+}
+#section2{
+    background-color: rebeccapurple;
+}
+#section3{
+    background-color: brown;
+}
+
+.section{
+    height: 200px
+}
+.myfooter{
+
+}
